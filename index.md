@@ -7,7 +7,7 @@ The website was created on Feb. 6th, 2018. It is not too late. I am really new t
 
 ### More about Me
 
-![Mount Tai](20170727_201907397_iOS.jpg)
+![](20170727_201907397_iOS.jpg?raw=True)
 
 *from Shanghai, China
 *Love traveling
