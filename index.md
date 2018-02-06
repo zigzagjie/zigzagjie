@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zigzagjie/zigzagjie.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am Jie Lou, a graudate student studying information systems at Carnegie Mellon University. This is my personal website to show some hands-on projects on data science. You can reach me via [LinkedIn Profile](linkedin.com/in/jielou). I am more than happy to discuss with you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The website was created on Feb. 6th, 2018. It is not too late. I am really new to html and markdown file to edit web pages. However, I believe I will add more content in the coming future.
 
-### Markdown
+### More about Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*from Shanghai, China
+*Love traveling
+*live in Adelaide, Australia
+*Using Python and R pretty well
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Data Science
 
-- Bulleted
-- List
+*online course
+*internship project
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zigzagjie/zigzagjie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
