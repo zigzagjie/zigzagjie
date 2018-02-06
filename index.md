@@ -1,3 +1,4 @@
+
 ## Welcome to My GitHub Pages
 
 I am Jie Lou, a graudate student studying information systems at Carnegie Mellon University. This is my personal website to show some hands-on projects on data science. You can reach me via [LinkedIn Profile](https://www.linkedin.com/in/jielou/). I am more than happy to discuss with you.
@@ -5,6 +6,8 @@ I am Jie Lou, a graudate student studying information systems at Carnegie Mellon
 The website was created on Feb. 6th, 2018. It is not too late. I am really new to html and markdown file to edit web pages. However, I believe I will add more content in the coming future.
 
 ### More about Me
+
+![Mount Tai](20170727_201907397_iOS.jpg)
 
 *from Shanghai, China
 *Love traveling
