@@ -1,10 +1,4 @@
 
-This is a page!
-
-Reasons:
-- its great.
-- its a test.
-
 ## Data Science Project
 
-This is great.
+The list here is all about data scienc projects I have worked on. 
