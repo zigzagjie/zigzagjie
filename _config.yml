@@ -1,20 +1,18 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Jie Lou's Data Amusement Park
+author: Jie Lou
+email: jlou1@andrew.cmu.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This website is to showcase some data science projects.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+#twitter_username: jekyllrb
+github_username:  zigzagjie
+#rss: rss
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: Jie Lou
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
