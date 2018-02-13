@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+---
+
 
 ## Welcome to My GitHub Pages
 
