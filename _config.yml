@@ -1,5 +1,16 @@
-theme: jekyll-theme-minimal
-title: [Jie Lou's Data Amusement Park]
-description: [This website is to showcase some data science projects]
-author: [Jie Lou]
-email: [jlou1@andrew.cmu.edu]
+# basic options
+title: Jie Lou's Data Amusement Park
+author: Jie Lou
+email: jlou1@andrew.cmu.edu
+description: This website is to showcase some data science projects
+twitter_username: zigzagjie
+github_username:  zigzagjie
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+
+
+
+#theme: jekyll-theme-minimal
