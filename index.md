@@ -1,11 +1,10 @@
 
-This is an about page about this awesome site.
-Hope you love it!
+This is a page!
 
 Reasons:
 - its great.
 - its a test.
 
-## Other thoughts
+## Data Science Project
 
 This is great.
