@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: 关于我
 ---
 
 
-## Welcome to My GitHub Pages
+## 欢迎来到我的个人博客小站
 
 I am Jie Lou, a graudate student studying information systems at Carnegie Mellon University. This is my personal website to show some hands-on projects on data science. You can reach me via [LinkedIn Profile](https://www.linkedin.com/in/jielou/). I am more than happy to discuss with you.
 
